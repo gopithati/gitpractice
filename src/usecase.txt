@@ -1,0 +1,10 @@
+unix 
+linux
+java
+javascript
+oracle
+virtual
+redhat
+ubuntu
+centos
+debian
